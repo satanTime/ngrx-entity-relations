@@ -163,7 +163,7 @@
     "karma-junit-reporter": "2.0.1",
     "lint-staged": "13.2.3",
     "npm": "6.14.18",
-    "ng-packagr": "12.2.7",
+    "ng-packagr": "19.1.0",
     "postcss": "8.4.26",
     "prettier": "2.8.8",
     "puppeteer": "17.1.3",

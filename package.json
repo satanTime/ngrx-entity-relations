@@ -161,7 +161,7 @@
     "karma-jasmine": "4.0.2",
     "karma-jasmine-html-reporter": "2.1.0",
     "karma-junit-reporter": "2.0.1",
-    "lint-staged": "13.2.3",
+    "lint-staged": "15.4.1",
     "npm": "6.14.18",
     "ng-packagr": "12.2.7",
     "postcss": "8.4.26",
